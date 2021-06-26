@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lucasemmerich.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/lucasemmerich.github.io/static/js/main.b5c3c73b.chunk.js",
-    "main.js.map": "/lucasemmerich.github.io/static/js/main.b5c3c73b.chunk.js.map",
-    "runtime-main.js": "/lucasemmerich.github.io/static/js/runtime-main.9ef25e95.js",
-    "runtime-main.js.map": "/lucasemmerich.github.io/static/js/runtime-main.9ef25e95.js.map",
-    "static/js/2.01e2ba08.chunk.js": "/lucasemmerich.github.io/static/js/2.01e2ba08.chunk.js",
-    "static/js/2.01e2ba08.chunk.js.map": "/lucasemmerich.github.io/static/js/2.01e2ba08.chunk.js.map",
-    "static/js/3.cb8c34b6.chunk.js": "/lucasemmerich.github.io/static/js/3.cb8c34b6.chunk.js",
-    "static/js/3.cb8c34b6.chunk.js.map": "/lucasemmerich.github.io/static/js/3.cb8c34b6.chunk.js.map",
-    "index.html": "/lucasemmerich.github.io/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/lucasemmerich.github.io/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.01e2ba08.chunk.js.LICENSE.txt": "/lucasemmerich.github.io/static/js/2.01e2ba08.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/lucasemmerich.github.io/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/static/js/main.b5c3c73b.chunk.js",
+    "main.js.map": "/static/js/main.b5c3c73b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e431314.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e431314.js.map",
+    "static/js/2.01e2ba08.chunk.js": "/static/js/2.01e2ba08.chunk.js",
+    "static/js/2.01e2ba08.chunk.js.map": "/static/js/2.01e2ba08.chunk.js.map",
+    "static/js/3.cb8c34b6.chunk.js": "/static/js/3.cb8c34b6.chunk.js",
+    "static/js/3.cb8c34b6.chunk.js.map": "/static/js/3.cb8c34b6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.01e2ba08.chunk.js.LICENSE.txt": "/static/js/2.01e2ba08.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ef25e95.js",
+    "static/js/runtime-main.7e431314.js",
     "static/js/2.01e2ba08.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
     "static/js/main.b5c3c73b.chunk.js"
